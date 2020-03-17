@@ -1,7 +1,7 @@
 {
   "name": "base-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Installation",
   "main": "index.js",
   "scripts": {
     "serve": "live-server"
@@ -10,5 +10,16 @@
   "license": "ISC",
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HH-FBW6/make-me-a-happy-robot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HH-FBW6/make-me-a-happy-robot/issues"
+  },
+  "homepage": "https://github.com/HH-FBW6/make-me-a-happy-robot#readme"
 }
